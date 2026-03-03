@@ -1,0 +1,5 @@
+{
+  "name": "行銷公司行動版報價單產生器",
+  "description": "專為業務團隊設計的行動版報價單自動生成工具，支援商品資料庫、自動稅務計算與 PDF 匯出。",
+  "requestFramePermissions": []
+}
